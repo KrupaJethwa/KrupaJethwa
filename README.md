@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KrupaJethwa
-- 👀 I’m interested in Web designing ,Testing 
+- 👀 I’m interested in UI/UX Designing,Web designing  
 - 🌱 I’m currently pursuing Masters in Computer Application
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
